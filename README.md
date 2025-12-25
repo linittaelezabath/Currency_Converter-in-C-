@@ -3,7 +3,6 @@
 A simple console-based currency converter written in C++.  
 This program allows users to convert currency values between INR, USD, EUR, and GBP using fixed exchange rates.
 
----
 
 ## Features
 
@@ -16,7 +15,6 @@ This program allows users to convert currency values between INR, USD, EUR, and 
 - Uses switch-case and constants
 - Easy to modify exchange rates
 
----
 
 ## Technologies Used
 
@@ -24,9 +22,6 @@ This program allows users to convert currency values between INR, USD, EUR, and 
 - Compiler: GCC / MinGW / Any C++ compiler
 - Platform: Windows / Linux / macOS
 
-
-  
----
 
 ## How to Run
 
